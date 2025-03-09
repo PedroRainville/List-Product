@@ -10,3 +10,6 @@ npm install @mui/icons-material
 Para iniciar o projeto 
 
 npm start
+
+OBS:Sobre as funções da lista, eu poderia ter criado duas classes separadas, uma para produto e outra para categoria, cada uma com suas funcionalidades próprias. Mas como é um app simples, optei por ter uma única classe de listas para centralizar todas as chamadas de API relacionadas a listas.
+Também podemos deixar os tokens de autenticação em um arquivo .env para ter uma segurança melhor.
